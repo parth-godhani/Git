@@ -1,9 +1,10 @@
 <PracTwo>
 	<build>
-		<branchInfo>We are in Master Branch -> Build Info</branchInfo>
-		<branchVer>Master</branchVer>
+		<branchInfo>We are in Master Test Branch -> Build Info</branchInfo>
+		<branchVer>Master Test</branchVer>
 	</build>
 </PracTwo>
 
 
 <!--Maser Branch -->
+
